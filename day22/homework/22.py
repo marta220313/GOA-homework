@@ -1,6 +1,6 @@
 num = int(input("please, enter your number: "))
 
-if number == 10
+if number == 10:
   print("true")
 else:
   print("false")
@@ -8,7 +8,7 @@ else:
 
 num = int(input("please, enter your number: "))
 
-if num % 2==0
+if num % 2==0:
   print("true")
 else:
   print("false")
@@ -16,7 +16,7 @@ else:
 
 num = int(input("please, enter your number: "))
 
-if num <100 and num >50
+if num <100 and num >50:
   print("true")
 else:
   print("false")
@@ -26,7 +26,7 @@ num1 = int(input("please, enter first number: "))
 num2 = int(input("please, enter second number: "))
 num3 = int(input("please, enter third  number: "))
 
-if num1 - num2 == 0
+if num1 - num2 == 0:
     print("false")
 elif num1 - num3==0:
     print("False")
