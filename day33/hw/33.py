@@ -9,8 +9,3 @@ list2[2] = 6548
 list2[3] = "hello world!"
 list2[4] = "goa best"
 print(list2)
-
-
-
-
-
