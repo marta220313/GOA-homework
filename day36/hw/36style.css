@@ -1,0 +1,16 @@
+#site-title, #site-footer{
+    color:blueviolet;
+    background-color:crimson;
+
+}
+
+#nav-link{
+    color:aqua;
+}
+
+#highlight{
+    font-size: 30px;
+    background-color: deeppink;
+}
+
+

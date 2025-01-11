@@ -1,0 +1,11 @@
+#color-box{
+    background-color: rgb(200, 150, 255);
+    width: 100px; 
+    height: 100px;
+}
+
+.color-text{
+    color: rgb(234, 147, 45);
+    font-size: 23px;
+    padding: 10px;
+}
