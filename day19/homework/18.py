@@ -19,8 +19,8 @@
 #print((False or True) and (True or True))
 #print((True and False) or (True and False))
 
-print(true and true)#true
-print(true and false)#false
+print(True and True)#True
+print(true and false)#False
 print(false or false)#false
 print(false and true)#false
 print(true or false)#true
