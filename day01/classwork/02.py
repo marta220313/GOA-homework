@@ -1,0 +1,1 @@
+print("no classwork was assigment on this day.")

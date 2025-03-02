@@ -1,0 +1,9 @@
+#styled-table, th{
+    text-decoration: underline;
+    background-color: #AA60C8;
+    color: #FFDFEF;
+    font-weight:bold;
+    font-style: italic;
+    text-transform: uppercase;
+
+}
