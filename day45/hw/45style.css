@@ -1,0 +1,39 @@
+#parent{
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+}
+
+#child{
+    color: aliceblue;
+    background-color: blue;
+}
+
+
+
+#children{
+    width: 150px;
+    height: 150px;
+    justify-content: flex-end;
+    align-items: center;
+    background-image: url("მე ვერ გადმოვიწერე ფოტო");
+}
+
+
+#divbottom{
+    justify-content: flex-start;
+    align-items: flex-start;
+    color: blueviolet;
+    background-color: aliceblue;
+}
+
+
+#footer{
+    justify-self: start;
+    align-self: start;
+}
+
+
+#idspace{
+    word-spacing:10%;
+}
