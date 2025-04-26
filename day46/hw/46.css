@@ -1,0 +1,51 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#main-div1 {
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: white;
+    border: 4,5px solid greenyellow;
+}
+
+#main-div1:hover{
+    animation-name: circlemove;
+    animation-duration: 5s;
+}
+
+
+@keyframes circlemove{
+    from{
+        background-color: aqua;
+        transform: rotate(70deg);
+    }
+    25%{
+        background-color: blue;
+        transform: rotate(125deg);
+    }
+    50%{
+        background-color: blueviolet;  
+        transform: rotate(231deg);   
+    }
+    75%{
+        background-color: chartreuse;
+        transform: rotate(342deg);
+    }
+    to{
+        background-color: crimson;
+        transform: rotate(549deg);
+    }
+}
+
+#div1{
+    color:blueviolet;
+    background-color: aliceblue;
+    animation-name: circlemove;
+    animation: linear;
+    transition-duration:
+}   -['/']
