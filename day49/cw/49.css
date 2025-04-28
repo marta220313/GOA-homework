@@ -1,0 +1,31 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    max-width: 77%;
+}
+
+@media (max-width: 1700px) {
+    p {
+        font-size: 35px;
+    }
+}
+
+@media (max-width: 1300px) {
+    p {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 1000px) {
+    p {
+        font-size: 25px;
+    }
+}

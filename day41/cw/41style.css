@@ -1,4 +1,4 @@
 #id1{
-    marker: georgian;
-    position: inside;
+    list-style-type: georgian;
+    list-style-position: inside;
 }
