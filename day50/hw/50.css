@@ -21,7 +21,7 @@ body {
     font-size: 30px;
     font-weight: 900;
     margin: 10px;
-}
+    }
 
 #div1 {
     background-color: #fb7ef6;
@@ -47,15 +47,15 @@ body {
         hsl(13deg 100% 83%) 17%,
         hsl(10deg 100% 83%) 25%,
         hsl(6deg 100% 82%) 33%,
-        hsl(3deg 100% 82%) 42%,
-        hsl(359deg 100% 82%) 50%,
-        hsl(355deg 100% 80%) 58%,
-        hsl(351deg 100% 79%) 67%,
-        hsl(347deg 100% 78%) 75%,
-        hsl(340deg 100% 75%) 83%,
-        hsl(334deg 100% 72%) 89%,
-        hsl(326deg 100% 69%) 94%,
-        hsl(317deg 100% 64%) 100%,
+        hsl(3deg 100% 80%) 42%,
+        hsl(359deg 100% 78%) 50%,
+        hsl(355deg 100% 75%) 58%,
+        hsl(351deg 100% 73%) 67%,
+        hsl(347deg 100% 69%) 75%,
+        hsl(340deg 100% 66%) 83%,
+        hsl(334deg 100% 62%) 89%,
+        hsl(326deg 100% 58%) 94%,
+        hsl(317deg 100% 54%) 100%,
 
     );
 }
