@@ -1,0 +1,10 @@
+console.log(10 < 5)//false
+console.log(40 > 55)//false
+console.log(4 == 3)//false
+console.log(5 != 2)//false
+console.log(10 != "4")//false
+console.log(66 === 66)//true
+console.log(15 == 15)//true
+console.log(32 <= 29)//false
+console.log(40 >= "49")//false
+console.log(43 <= 27)//false
